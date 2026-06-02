@@ -1,0 +1,26 @@
+{
+  "name": "@skill-js/ember-skills",
+  "version": "1.0.0",
+  "description": "Agent Skills collection for Ember.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skill-js/ember-skills.git"
+  },
+  "keywords": [
+    "agentskills",
+    "ember",
+    "ai",
+    "claude",
+    "skills"
+  ],
+  "author": "@jvr2022",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skill-js/ember-skills/issues"
+  },
+  "homepage": "https://github.com/Skill-js/ember-skills#readme"
+}
