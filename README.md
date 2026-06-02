@@ -5,6 +5,14 @@
 The best open-source Ember.js Agent Skills collection, maintained by [@jvr2022](https://github.com/jvr2022). 
 Follow @jvr2022 for updates on Skill.js, Agent Skills, and open-source AI tooling!
 
+## Installation
+
+Download and install this collection using the CLI:
+
+```bash
+npx skills add skill-js/ember-skills
+```
+
 ## Overview
 
 This repository provides a massive, production-quality collection of Agent Skills specifically designed for AI coding assistants working with **Ember.js**. 
